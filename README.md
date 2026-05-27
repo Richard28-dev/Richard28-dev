@@ -1,4 +1,3 @@
-# Hi, I'm Richard 👋
 
 <h1 align="center">Hi there, I'm Richard R 👋</h1>
 
